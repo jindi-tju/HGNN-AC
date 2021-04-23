@@ -16,7 +16,6 @@ The preprocessed datasets are available at [Baidu Netdisk](https://pan.baidu.com
 
 Please extract the zip file to folder `data`.
 
-We use the same methods as MAGNN to process the data, so you can also download datasets at [MAGNN's repository](https://github.com/cynricfu/MAGNN).
 ## Example
 * `python run_DBLP.py`
 * `python run_IMDB.py`
